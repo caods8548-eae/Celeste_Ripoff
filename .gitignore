@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Celeste_Ripoff/Intermediate/CachedAssetRegistry.bin
+Celeste_Ripoff/Saved/AutoScreenshot.png
+Celeste_Ripoff/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Celeste_Ripoff/Saved/Logs/Celeste_Ripoff.log
